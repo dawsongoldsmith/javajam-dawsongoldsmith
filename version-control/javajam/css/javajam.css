@@ -1,0 +1,65 @@
+body {
+  background-image:url("../images/javabackground.gif");
+  color: #2E0000;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  background-color: #D2B48C;
+  background-repeat: no-repeat;
+  padding-left: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav {
+  text-align:center;
+
+}
+
+h2 {
+  background-color: #F5F5DC;
+  color: #2E0000;
+  font-style: bold;
+  font-family: Verdana,sans-serif;
+}
+#months {
+  font-size: large;
+  font-family: Verdana,sans-serif;
+  text-indent: 15px;
+  font-weight:bold;
+}
+
+#text-indent {
+  text-indent: 15px;
+}
+
+.feature {
+  color:#FF0000;
+}
+
+ul {
+
+  list-style-image: url("../images/marker.gif");
+}
+
+#content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  background-color: #F5F5DC;
+  box-shadow: 5px 5px 5px #1e1e1e;
+}
+
+footer {
+  background-color: #D2B48C;
+  color: #2E0000;
+  font-size: small;
+  text-align: center;
+  font-style: italic;
+}
+
+.companyName {
+  color: #000000;
+}
